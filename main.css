@@ -135,7 +135,7 @@ ul {
   width: 50%;
   padding: 15% 20% 10%;
 }
-.main-text-row-text-wrapper>h1{
+.main-text-row-text-wrapper>h2{
 font-family: 'Fraunces',serif;
 font-size: 2rem;
 }
@@ -191,7 +191,7 @@ font-size: 2rem;
 .photography{
   color: var(--primary-clr-photography)
 }
-.main-text-wrapper-bottom>h1 {
+.main-text-wrapper-bottom>h2 {
 font-family: 'Fraunces',
 serif;
 font-size: 2rem;
