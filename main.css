@@ -38,7 +38,7 @@ a {
 ul {
   list-style: none;
 }
-@media only screen and (min-width: 400px){
+
 .wrapper-head{
  background-image:url(./images/desktop/image-header.jpg);
   background-position: bottom;
@@ -339,7 +339,7 @@ footer{
   padding: 0 5% 5%;
   color: var(--primary-clr-footer);
 }
-}
+
 @media only screen and (max-width: 900px){
 .wrapper-head {
   overflow: hidden;
