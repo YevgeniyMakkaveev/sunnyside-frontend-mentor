@@ -74,6 +74,7 @@ ul {
   padding: 1rem 1rem;
 }
 .main-header-arrow-wrap {
+  margin-top: 2rem;
   width: 2rem;
   align-self: center;
 }
@@ -158,6 +159,9 @@ ul {
 .main-text-row-text-wrapper > h2 {
   font-family: "Fraunces", serif;
   font-size: 2rem;
+}
+.main-text-row-text-wrapper>p{
+  margin: 2rem 0
 }
 
 .main-text-row-img1,
@@ -341,6 +345,7 @@ footer {
     height: 50vh;
     background-color: var(--neutral-clr-light);
     display: none;
+    z-index: 999;
   }
   .head-menu-items:before {
     content: "";
